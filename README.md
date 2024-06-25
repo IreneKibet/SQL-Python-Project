@@ -1,4 +1,4 @@
-# SQL-Python-Projects
+# SQL-Python-Project
 
 ## Order Data Analysis Project
 
